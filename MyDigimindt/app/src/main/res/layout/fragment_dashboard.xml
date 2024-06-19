@@ -175,11 +175,21 @@
                 android:textAlignment="center"
                 android:textColor="@color/dusty_rose"
                 android:layout_marginTop="20dp"/>
-            <EditText
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+
+            </LinearLayout>
+            <Button
                 android:id="@+id/time"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:inputType="text"/>
+                android:text="Set time"
+                android:backgroundTint="@color/dusty_rose"
+                android:textColor="@color/white"
+                android:inputType="time"/>
 
             <Button
                 android:id="@+id/done"
@@ -188,10 +198,15 @@
                 android:backgroundTint="@color/dusty_rose"
                 android:text="@string/done"
                 android:layout_gravity="center"
-                android:textColor="@color/white"
-                android:layout_marginTop="30dp"/>
-
-
+                android:textColor="@color/white"/>
+            <Button
+                android:id="@+id/axd"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="@string/done"
+                android:layout_gravity="center"
+                android:textColor="@color/white"/>
 
         </LinearLayout>
 
