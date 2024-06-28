@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533069885677",
+    "project_id": "test-a31e5",
+    "storage_bucket": "test-a31e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533069885677:android:6231941dc5f3c400e35ce4",
+        "android_client_info": {
+          "package_name": "lopez.marcos.mydigimindt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8wmQdlRb_9Mim3RUAGVqJGpqoqX4USOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
