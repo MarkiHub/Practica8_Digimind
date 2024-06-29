@@ -13,6 +13,9 @@
     <string name="th">Thursday</string>
     <string name="f">Friday</string>
     <string name="sa">Saturday</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_registro">RegistroActivity</string>
+    <string name="title_activity_contrasena">ContrasenaActivity</string>
 
 
 </resources>
